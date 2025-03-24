@@ -7,7 +7,7 @@ This is a simple yet fun Discord bot that responds to the `neko` command by send
 ## Detailed Features
 
 -   **`neko` Command:**
-    -      Responds to the `neko` command, regardless of capitalization (e.g., `Neko`, `NEKO`, `neko`).
+    -      Responds to the `neko` command, regardless of capitalization
     -      Fetches a random cat image from the Cat API.
     -      Handles API errors gracefully, providing a user-friendly message if image retrieval fails.
 -   **Environment Variable Security:**
