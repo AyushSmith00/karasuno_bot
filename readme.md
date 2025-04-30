@@ -1,6 +1,6 @@
-Markdown
 
-# Discord Neko Bot - Enhanced Readme
+
+# Discord Neko Bot 
 
 This is a simple yet fun Discord bot that responds to the `neko` command by sending adorable cat images. It's built with Python and leverages the Discord.py library for Discord interactions and the requests library for fetching images from the Cat API.
 
