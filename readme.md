@@ -1,4 +1,4 @@
-
+https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif
 
 # Discord Neko Bot 
 
